@@ -18,7 +18,7 @@ mkdir -p $HOME/sui/target/release/
 # git fetch upstream
 # git checkout -B devnet --track upstream/devnet
 echo "-----------------------------------------------------------------------"
-echo "Устанавливаем обновление"
+echo "Обновляем"
 echo "-----------------------------------------------------------------------"
 # cargo build --release
 version=0.7.0
